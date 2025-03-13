@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @imarslan44
-- 👀 I’m interested in ...web developement
-- 🌱 I’m currently learning ...fontend developement
+- 👀 I’m a  web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...+91 7051047915
 
