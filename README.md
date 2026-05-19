@@ -27,8 +27,7 @@ Full Stack Web Developer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imarslan44&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarslan44&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imarslan44&theme=github_dark" />
 </p>
 
 ---
