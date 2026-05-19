@@ -2,18 +2,14 @@
 
 Full Stack Web Developer focused on building scalable web applications and products.
 
-## Skills
-- JavaScript
-- React.js
-- Node.js
-- Express.js
+## Skills                                           ## Interests
+
+- JavaScript                                       - Full Stack Development
+- React.js                                         - Backend Architecture
+- Node.js                                          - Modern UI Systems
+- Express.js                                       - Product Development
 - MongoDB
 
-## Interests
-- Full Stack Development
-- Backend Architecture
-- Modern UI Systems
-- Product Development
 
 ## Contact
 +91 7051047915
